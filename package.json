@@ -7,7 +7,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "dev": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+    "dev": "tailwindcss -i ./css/input.css -o ./docs/css/output.css --watch"
   },
   "keywords": [],
   "author": "",
