@@ -5,9 +5,12 @@
   "dependencies": {
     "tailwindcss": "^3.0.7"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "reload": "^3.2.0"
+  },
   "scripts": {
-    "dev": "tailwindcss -i ./css/input.css -o ./docs/css/output.css --watch"
+    "dev": "tailwindcss -i ./css/input.css -o ./docs/css/output.css --watch",
+    "reload": "reload -b -d docs"
   },
   "keywords": [],
   "author": "",
