@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "dependencies": {
-    "tailwindcss": "^3.0.7"
+    "tailwindcss": "^3.0.22"
   },
   "devDependencies": {
     "reload": "^3.2.0"
