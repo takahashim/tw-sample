@@ -502,10 +502,6 @@ Ensure the default browser behavior of the `hidden` attribute.
   }
 }
 
-.invisible {
-  visibility: hidden;
-}
-
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -671,6 +667,11 @@ Ensure the default browser behavior of the `hidden` attribute.
 .bg-blue-800 {
   --tw-bg-opacity: 1;
   background-color: rgb(30 64 175 / var(--tw-bg-opacity));
+}
+
+.bg-yellow-50 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(254 252 232 / var(--tw-bg-opacity));
 }
 
 .fill-current {
